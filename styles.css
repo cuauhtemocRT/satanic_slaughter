@@ -34,6 +34,16 @@ ul {
     color: #ccc;
     position: relative;
 }
+.section-titlev {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 60px 0 40px 0;
+    text-transform: uppercase;
+    color: #ccc;
+    position: relative;
+}
 
 .section-title::after {
     content: '';
